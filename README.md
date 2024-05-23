@@ -1,4 +1,4 @@
-# TDA
+# TDA Utilizando el tipo de dato De ARBOL(tree)
 # Juego del Ahorcado
 
 Este es un simple juego del ahorcado implementado en Python.
